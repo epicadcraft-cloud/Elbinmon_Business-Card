@@ -20,7 +20,7 @@ const CARD_CONFIG = {
   whatsapp: "+917012095321",    // For WhatsApp chat
 
   // Email (ഇമെയിൽ - കോൺടാക്റ്റിൽ സേവ് ആകും)
-  email: "elbinmon1@gmail.com.com",
+  email: "elbinmon1@gmail.com",
 
   // Social Media Links (സോഷ്യൽ മീഡിയ പ്രൊഫൈലുകൾ)
   instagramUrl: "https://www.instagram.com/elbin_mon",
